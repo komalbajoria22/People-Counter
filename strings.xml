@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="reset">Reset</string>
+    <string name="plusone">+1</string>
+    <string name="countdown">00</string>
+
+
+</resources>
